@@ -1,0 +1,33 @@
+{
+  "name": "vscode-cosmic",
+  "version": "0.0.1",
+  "displayName": "vscode-cosmic",
+  "description": "Cosmic Theme for Visual Studio Code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carmelopullara/vscode-cosmic.git"
+  },
+  "publisher": "carmelopullara",
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "build": "node ./src/build"
+  },
+  "icon": "./images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "polished": "^1.9.2"
+  }
+}
