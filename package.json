@@ -1,7 +1,7 @@
 {
   "name": "vscode-cosmic",
   "version": "0.0.1",
-  "displayName": "vscode-cosmic",
+  "displayName": "Cosmic Theme",
   "description": "Cosmic Theme for Visual Studio Code",
   "repository": {
     "type": "git",
