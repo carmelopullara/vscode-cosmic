@@ -1,11 +1,11 @@
 {
   "name": "vscode-cosmic",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "displayName": "Cosmic Theme",
   "description": "Cosmic Theme for Visual Studio Code",
   "repository": {
     "type": "git",
-    "url": "https://github.com/carmelopullara/vscode-cosmic.git"
+    "url": "https://github.com/carmelopullara/vscode-cosmic"
   },
   "publisher": "carmelopullara",
   "engines": {
